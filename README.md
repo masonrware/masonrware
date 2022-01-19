@@ -1,2 +1,1 @@
-# github-readme
- this is the read me on the front page of my github profile
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apimasonrware=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
